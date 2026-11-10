@@ -562,18 +562,17 @@ You can keep your fork, and thus your private Vercel instance up to date with th
 
 ## :sparkling_heart: Support the project
 
-I open-source almost everything I can and try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
+I open-source almost everything I can and try to help everyone who needs assistance with these projects. Of course, this takes time, but you can use this project for free.
 
-However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are a few ways you can do it:
+If you find this project useful, enjoy using it, or simply want to encourage me to keep creating and sharing open-source projects, there are a few ways you can support me:
 
--   Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
--   Starring and sharing the project :rocket:
--   [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+- Giving proper credit when you use this project in your README, linking back to it :D
+- Starring and sharing the project :rocket:
+- Supporting me with a donation through **Lemon** (Argentina): [![Lemon](https://img.shields.io/badge/Lemon-Donate-7C3AED?logo=lemonade&logoColor=white)](https://lemon.me/esmicuentalemon) — You can make a one-time donation using my Lemon alias: **`esmicuentalemon`**. Every contribution is greatly appreciated! :heart:
 
-Thanks! :heart:
+Thanks for your support! :heart:
 
-* * *
+***
 
 [![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
 
